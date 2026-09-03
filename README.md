@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samirbhusal/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1768-merge-strings-alternately](https://github.com/samirbhusal/DSA-Java/tree/master/1768-merge-strings-alternately) |
 ## Database
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/samirbhusal/DSA-Java/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/samirbhusal/DSA-Java/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/samirbhusal/DSA-Java/tree/master/1757-recyclable-and-low-fat-products) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/samirbhusal/DSA-Java/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
