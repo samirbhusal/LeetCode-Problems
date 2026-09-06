@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/samirbhusal/DSA-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samirbhusal/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Two Pointers
 |  |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1768-merge-strings-alternately](https://github.com/samirbhusal/DSA-Java/tree/master/1768-merge-strings-alternately) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/samirbhusal/DSA-Java/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
