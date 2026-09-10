@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/samirbhusal/DSA-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/samirbhusal/DSA-Java/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samirbhusal/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/samirbhusal/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/samirbhusal/DSA-Java/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1768-merge-strings-alternately](https://github.com/samirbhusal/DSA-Java/tree/master/1768-merge-strings-alternately) |
 ## Database
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/samirbhusal/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/samirbhusal/DSA-Java/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/samirbhusal/DSA-Java/tree/master/0389-find-the-difference) |
 | [1768-merge-strings-alternately](https://github.com/samirbhusal/DSA-Java/tree/master/1768-merge-strings-alternately) |
 ## Hash Table
