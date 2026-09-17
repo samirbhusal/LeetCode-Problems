@@ -2,23 +2,23 @@ class Solution {
     public int strStr(String haystack, String needle) {
         int hLen = haystack.length();
         int nLen = needle.length();
-        if(hLen < nLen){
-            return -1;
-        }
+
         for (int i = 0; i <= hLen - nLen; i++) {
-            int j = 0;
-            while (j < nLen) {
+            for (int j = 0; j < nLen; j++) {
                 char hChar = haystack.charAt(i + j);
                 char nChar = needle.charAt(j);
                 if (hChar != nChar) {
                     break;
                 }
-                j++;
-            }
-            if (j == nLen) {
-                return i;
+                if (j == nLen - 1) {
+                    return i;
+                }
             }
         }
         return -1;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
