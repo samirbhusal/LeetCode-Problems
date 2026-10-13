@@ -14,22 +14,24 @@ class Solution {
         int left = 0;
         int right = 0;
 
-        if (len <= 1){
+        if (len == 1){
             sum = lookUp.get(s.charAt(len-1));
             return sum;
         }
 
-        for(int i = 0; i < len - 1; i++){
-            left = lookUp.get(s.charAt(i));
-            right = lookUp.get(s.charAt(i+1));
+        for(int i = 1; i < len; i++){
+            left = lookUp.get(s.charAt(i-1));
+            right = lookUp.get(s.charAt(i));
             if(right > left){
                 sum -= left;
             } else {
                 sum += left;
             }
-        }
 
-        sum = sum + lookUp.get(s.charAt(len-1));
+            if(i == len-1){
+                sum += right;
+            }
+        }
 
         return sum;
     }
