@@ -8,13 +8,16 @@ public class Solution {
         
         Scanner sc = new Scanner(System.in);
         String s = sc.nextLine();
+        if (!s.matches(".*[A-Za-z].*")) {
+            System.out.println(0);
+        } else {
         String[] sArr = s.trim().split("[^A-Za-z]+");
         System.out.println(sArr.length);
         for(String s1 : sArr){
             System.out.println(s1);
         }
         
-        
+        }
         
         sc.close();
     }
