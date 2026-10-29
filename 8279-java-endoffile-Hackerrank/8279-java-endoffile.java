@@ -5,14 +5,12 @@ public class Solution {
 
     public static void main(String[] args) {
         /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
+        
         Scanner sc = new Scanner(System.in);
-        int line = 1;
+        int count = 1;
         while(sc.hasNext()){
-            String str = sc.nextLine();
-            System.out.println(line+" "+str);
-            line++;
+            System.out.println(count+++" "+sc.nextLine());
         }
-        sc.close();
     }
 }
 
